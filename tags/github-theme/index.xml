@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Github Theme on Shreyas Subramanian</title>
-    <link>https://shreyas.ml/tags/github-theme/index.xml</link>
+    <link>http://shreyasportfolio.github.io/tags/github-theme/index.xml</link>
     <description>Recent content in Github Theme on Shreyas Subramanian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://shreyas.ml/tags/github-theme/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://shreyasportfolio.github.io/tags/github-theme/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>highlighted code showcase</title>
-      <link>https://shreyas.ml/post/highlighted-code-showcase/</link>
+      <link>http://shreyasportfolio.github.io/post/highlighted-code-showcase/</link>
       <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://shreyas.ml/post/highlighted-code-showcase/</guid>
+      <guid>http://shreyasportfolio.github.io/post/highlighted-code-showcase/</guid>
       <description>&lt;p&gt;Tranquilpeak Hugo theme have its own theme to highlight source code. It&amp;rsquo;s based on GitHub theme: simple and elegant. Check out how it sublimate source codes.
 &lt;/p&gt;
 

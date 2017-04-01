@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown on Shreyas Subramanian</title>
-    <link>https://shreyas.ml/tags/markdown/index.xml</link>
+    <link>http://shreyasportfolio.github.io/tags/markdown/index.xml</link>
     <description>Recent content in Markdown on Shreyas Subramanian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://shreyas.ml/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://shreyasportfolio.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Elements showcase</title>
-      <link>https://shreyas.ml/post/Elements-showcase/</link>
+      <link>http://shreyasportfolio.github.io/post/Elements-showcase/</link>
       <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>https://shreyas.ml/post/Elements-showcase/</guid>
+      <guid>http://shreyasportfolio.github.io/post/Elements-showcase/</guid>
       <description>&lt;p&gt;Check out how Tranquilpeak theme display well HTML elements (title, paragraph, blockquote, table and more..). It&amp;rsquo;s simple and elegant.
 &lt;/p&gt;
 

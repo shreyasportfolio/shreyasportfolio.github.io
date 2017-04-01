@@ -2,265 +2,265 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://shreyas.ml/post/migrate-from-jekyll/</loc>
+    <loc>http://shreyasportfolio.github.io/post/migrate-from-jekyll/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/go-is-for-lovers/</loc>
+    <loc>http://shreyasportfolio.github.io/post/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/hugo-is-for-lovers/</loc>
+    <loc>http://shreyasportfolio.github.io/post/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/creating-a-new-theme/</loc>
+    <loc>http://shreyasportfolio.github.io/post/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/Welcome-to-the-new-Tranquilpeak/</loc>
+    <loc>http://shreyasportfolio.github.io/post/Welcome-to-the-new-Tranquilpeak/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/Elements-showcase/</loc>
+    <loc>http://shreyasportfolio.github.io/post/Elements-showcase/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/Cover-image-showcase/</loc>
+    <loc>http://shreyasportfolio.github.io/post/Cover-image-showcase/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/highlighted-code-showcase/</loc>
+    <loc>http://shreyasportfolio.github.io/post/highlighted-code-showcase/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/Tags-plugins-showcase/</loc>
+    <loc>http://shreyasportfolio.github.io/post/Tags-plugins-showcase/</loc>
     <lastmod>2014-10-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/Hidden-social-section-showcase/</loc>
+    <loc>http://shreyasportfolio.github.io/post/Hidden-social-section-showcase/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/Hidden-tag-section-showcase/</loc>
+    <loc>http://shreyasportfolio.github.io/post/Hidden-tag-section-showcase/</loc>
     <lastmod>2014-08-16T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/Hidden-pagination-showcase/</loc>
+    <loc>http://shreyasportfolio.github.io/post/Hidden-pagination-showcase/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/Video-integrations-showcase/</loc>
+    <loc>http://shreyasportfolio.github.io/post/Video-integrations-showcase/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/chinese-test/</loc>
+    <loc>http://shreyasportfolio.github.io/post/chinese-test/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/Image-gallery-showcase/</loc>
+    <loc>http://shreyasportfolio.github.io/post/Image-gallery-showcase/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/japanese-test/</loc>
+    <loc>http://shreyasportfolio.github.io/post/japanese-test/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/categories/</loc>
+    <loc>http://shreyasportfolio.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/chinese/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/chinese/</loc>
     <lastmod>2013-10-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/cover-image/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/cover-image/</loc>
     <lastmod>2015-05-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/dailymotion/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/dailymotion/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/disqus/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/disqus/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/categories/features/</loc>
+    <loc>http://shreyasportfolio.github.io/categories/features/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/github-theme/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/github-theme/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/google-analytics/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/google-analytics/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/gravatar/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/gravatar/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/hexo-theme/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/hexo-theme/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/highlight-code/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/highlight-code/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/html-elements/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/html-elements/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/image-gallery/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/image-gallery/</loc>
     <lastmod>2013-02-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/categories/ipsum/</loc>
+    <loc>http://shreyasportfolio.github.io/categories/ipsum/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/japanese/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/japanese/</loc>
     <lastmod>2013-01-02T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/categories/lorem/</loc>
+    <loc>http://shreyasportfolio.github.io/categories/lorem/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/markdown/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/markdown/</loc>
     <lastmod>2015-05-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/pagination/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/pagination/</loc>
     <lastmod>2014-08-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/post/</loc>
+    <loc>http://shreyasportfolio.github.io/post/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/categories/releases/</loc>
+    <loc>http://shreyasportfolio.github.io/categories/releases/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/responsive/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/responsive/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/</loc>
+    <loc>http://shreyasportfolio.github.io/</loc>
     <lastmod>2015-10-10T13:07:31+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/social/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/social/</loc>
     <lastmod>2014-08-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/tag-plugins/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/tag-plugins/</loc>
     <lastmod>2014-10-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/tags/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/tags/</loc>
     <lastmod>2014-08-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/test/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/test/</loc>
     <lastmod>2015-03-23T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/categories/tranquilpeak/</loc>
+    <loc>http://shreyasportfolio.github.io/categories/tranquilpeak/</loc>
     <lastmod>2015-06-15T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/videos-integration/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/videos-integration/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/vimeo/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/vimeo/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://shreyas.ml/tags/youtube/</loc>
+    <loc>http://shreyasportfolio.github.io/tags/youtube/</loc>
     <lastmod>2014-08-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

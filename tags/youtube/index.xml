@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Youtube on Shreyas Subramanian</title>
-    <link>https://shreyas.ml/tags/youtube/index.xml</link>
+    <link>http://shreyasportfolio.github.io/tags/youtube/index.xml</link>
     <description>Recent content in Youtube on Shreyas Subramanian</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://shreyas.ml/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://shreyasportfolio.github.io/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Video integrations showcase</title>
-      <link>https://shreyas.ml/post/Video-integrations-showcase/</link>
+      <link>http://shreyasportfolio.github.io/post/Video-integrations-showcase/</link>
       <pubDate>Sat, 09 Aug 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://shreyas.ml/post/Video-integrations-showcase/</guid>
+      <guid>http://shreyasportfolio.github.io/post/Video-integrations-showcase/</guid>
       <description>&lt;p&gt;Youtube and Vimeo videos are easily integrated thanks to tags plugins. Of course, you can add video other platforms like dailymotion.
 &lt;/p&gt;
 
