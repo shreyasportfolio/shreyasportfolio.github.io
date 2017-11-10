@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag Plugins on Shreyas Subramanian</title>
+    <link>https://shreyasportfolio.github.io/tags/tag-plugins/index.xml</link>
+    <description>Recent content in Tag Plugins on Shreyas Subramanian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://shreyasportfolio.github.io/tags/tag-plugins/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Tags plugins showcase</title>
+      <link>https://shreyasportfolio.github.io/post/Tags-plugins-showcase/</link>
+      <pubDate>Wed, 29 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://shreyasportfolio.github.io/post/Tags-plugins-showcase/</guid>
+      <description>&lt;p&gt;This post is used to show how tag plugins are displayed. See &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#tags&#34;&gt;docs&lt;/a&gt; for more info.
+&lt;/p&gt;
+
+&lt;!-- toc --&gt;
+
+&lt;h1 id=&#34;alert&#34;&gt;Alert&lt;/h1&gt;
+
+&lt;p&gt;Read documentation to know how to use &lt;a href=&#34;https://github.com/kakawait/hugo-tranquilpeak-theme/blob/master/docs/user.md#alert&#34;&gt;Alert tag&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
